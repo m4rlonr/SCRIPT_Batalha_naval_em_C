@@ -2,7 +2,7 @@
 
 ### Como Jogar
 
-Para jogar o Jogo de batalha naval basta ter uma IDE que consiga compilar e executar códicos em Linguagem C.
+Para jogar o Jogo de batalha naval basta ter uma IDE que consiga compilar e executar códicos em Linguagem C, clone o reṕositório e abra com sua IDE o arquivo `batalhanaval.c` após o compile e execute para  jogar.
 
 ### Propósito do desenvolvimento
 
